@@ -1,0 +1,1 @@
+enum AnimationType { Roulette, Slots }
